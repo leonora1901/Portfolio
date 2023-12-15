@@ -41,42 +41,9 @@ Welcome to my EOSS (Open Source Software Management) notebook for HS23! This is 
 - Planning to attend the next open source conference in the area.
 - Interested in exploring more projects related to data science and AI.
 
-## Resources
-- [EOSS Syllabus](link-to-syllabus.pdf)
-- [Useful Git Commands](git-cheat-sheet.pdf)
-- [Open Source Initiative](https://opensource.org/)
-
-## Contact Information
-- Instructor: Prof. John Doe
-- TA: Jane Smith
-- Email: [eoss@university.edu](mailto:eoss@university.edu)
-
 ## Next Steps
 - Prepare for the upcoming midterm exam.
 - Continue working on my personal open source project.
 - Reach out to the instructor with questions about project licensing.
 
-Happy note-taking and learning!
 
-
-## Personal Notes
-- I need to improve my Git branching strategy.
-- Plan to attend the next open source conference in the area.
-- Interested in exploring more projects related to data science and AI.
-
-## Resources
-- [EOSS Syllabus](link-to-syllabus.pdf)
-- [Useful Git Commands](git-cheat-sheet.pdf)
-- [Open Source Initiative](https://opensource.org/)
-
-## Contact Information
-- Instructor: Prof. John Doe
-- TA: Jane Smith
-- Email: [eoss@university.edu](mailto:eoss@university.edu)
-
-## Next Steps
-- Prepare for the upcoming midterm exam.
-- Continue working on my personal open source project.
-- Reach out to the instructor with questions about project licensing.
-
-Happy note-taking and learning!
